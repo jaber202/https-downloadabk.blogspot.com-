@@ -1,0 +1,2 @@
+# https-downloadabk.blogspot.com-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bca5a79d2e942ec98d4bb07e28b0944)](https://app.codacy.com/gh/jaber202/https-downloadabk.blogspot.com-?utm_source=github.com&utm_medium=referral&utm_content=jaber202/https-downloadabk.blogspot.com-&utm_campaign=Badge_Grade_Settings)
